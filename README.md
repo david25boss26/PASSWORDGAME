@@ -209,3 +209,7 @@ Feel free to contribute to the project by:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 😊Team
+1. David Sharma
+2. Ayushi
